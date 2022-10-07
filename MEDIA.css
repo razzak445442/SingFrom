@@ -1,0 +1,139 @@
+@media  (min-width:1200px){
+    .minDiv{
+       
+       
+        left: 20%;
+        
+    }
+}
+
+
+@media (min-width:992px) and (max-width:1199px){
+    .minDiv{
+       
+       
+        left: 10%;
+        
+    }
+}
+
+
+@media (min-width:768px) and (max-width:991px){
+    .minDiv{
+       
+      
+        left: 5%;
+        
+    }
+}
+
+@media (min-width:576px) and (max-width:767px){
+    .minDiv{
+       
+      
+        left: 2%;
+        width: 650px;
+        
+    }
+    .Imdiv{
+        left: 100px;
+        
+        
+      
+    }
+    .Inpdiv{
+        left: 50px;
+       
+
+        
+    
+    }
+    .btn{
+        left: 60%;
+      
+        
+    }
+    .ScoundDiv{
+       width: 350px;
+     
+       
+      
+        
+    }
+    h2{
+        left: 30px;
+    }
+    .btn-2{
+        left: 40px;
+    }
+    .extcss{
+        position: absolute;
+        right: 5px;
+    }
+       
+    .extcss1{
+      
+        left:70px;
+       
+    
+    }
+}
+
+
+@media (max-width:575px)
+{
+    .minDiv{
+        left: 0px;
+    }
+    
+    .Imdiv{
+        left: 300px;
+      
+    }
+    .Inpdiv{
+        left: 230px;
+       
+
+        
+    
+    }
+    .btn{
+        top: -95px;
+        left: 430px;
+        
+       
+      
+        
+    }
+    .ScoundDiv{
+       width:600px;
+       left: 1px;
+     
+       
+      
+        
+    }
+    .btn-2{
+        left: 220px;
+
+    }
+    h2{
+        left: 200px;
+        
+    }
+   
+    
+    .extcss{
+        top: 400px;
+        right:300px;
+       
+    }
+       
+    .extcss1{
+        top: 300px;
+        left: 250px;
+        width: 150px;
+    
+    }
+
+}
